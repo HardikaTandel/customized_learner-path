@@ -1,0 +1,14 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "AzureWebJobsStorage": "UseDevelopmentStorage=true",
+    "FUNCTIONS_WORKER_RUNTIME": "node",
+    "OPENAI_ENDPOINT": "https://hardika-instance.openai.azure.com/",
+    "OPENAI_KEY": "6LmBKGVraWpqMSS3XHj1pLnQoGVf9UzqaIsIii5YuHDUAJZKlcAYJQQJ99BDACYeBjFXJ3w3AAABACOGkQmT",
+    "COSMOS_URI": "mongodb://generate-path:t68DiWSQlE8cESXV1bFAnpqOiQbOooaT1KOjV2ukhozDcb5gllfQPqgCrvKLNOQxw7JrvwSvAKrwACDbrUNG9g==@generate-path.mongo.cosmos.azure.com:10255/?ssl=true&retrywrites=false&replicaSet=globaldb&maxIdleTimeMS=120000&appName=@generate-path@"
+  },
+  "Host": {
+    "LocalHttpPort": 7071,
+    "CORS": "http://localhost:5173"
+  }
+}
