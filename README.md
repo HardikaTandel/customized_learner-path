@@ -41,11 +41,13 @@ This is a full-stack web application that allows users to generate a personalize
 
 ## 🧾 To run locally
  Frontend
-cd frontend
-yarn install
-yarn dev
+- cd frontend
+- yarn install
+- yarn dev
+
 
  Backend
-cd backend
-func start
+ - cd backend
+- func start
+
  
